@@ -1,5 +1,5 @@
 /****************************************************************************
- *
+ *天热网特网特网特
  *   (c) 2009-2016 QGROUNDCONTROL PROJECT <http://www.qgroundcontrol.org>
  *
  * QGroundControl is licensed according to the terms in the file
